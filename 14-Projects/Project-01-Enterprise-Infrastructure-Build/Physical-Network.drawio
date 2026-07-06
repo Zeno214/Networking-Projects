@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="jvolrsGhzHHH6mcHXsJD">
+    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q_Vq0mJyqChyV0SRwSDn-1" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="Proxmox VE" vertex="1">
+          <mxGeometry height="70" width="78" x="140" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="q_Vq0mJyqChyV0SRwSDn-6" edge="1" parent="1" source="q_Vq0mJyqChyV0SRwSDn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q_Vq0mJyqChyV0SRwSDn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q_Vq0mJyqChyV0SRwSDn-2" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="Cisco Catalyst 3560E" vertex="1">
+          <mxGeometry height="50" width="101" x="289" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="q_Vq0mJyqChyV0SRwSDn-3" parent="1" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point2;fillColor=#fafafa;strokeColor=#005073;" value="Aruba Access Point" vertex="1">
+          <mxGeometry height="50" width="50" x="460" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="q_Vq0mJyqChyV0SRwSDn-4" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="ISP Router" vertex="1">
+          <mxGeometry height="50" width="78" x="301" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q_Vq0mJyqChyV0SRwSDn-5" edge="1" parent="1" source="q_Vq0mJyqChyV0SRwSDn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="q_Vq0mJyqChyV0SRwSDn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q_Vq0mJyqChyV0SRwSDn-7" edge="1" parent="1" source="q_Vq0mJyqChyV0SRwSDn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.42;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" target="q_Vq0mJyqChyV0SRwSDn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
