@@ -1,4 +1,3 @@
-# Networking-Projects
 # Enterprise Infrastructure Homelab
 
 ## Welcome
