@@ -15,7 +15,9 @@ This repository will grow as I complete projects and document everything I learn
 - Cisco Catalyst 3560E
 - Dell OptiPlex (Proxmox)
 - Aruba AP-325
-- 15U Rack (Coming Soon)
+- 15U Rack
+- 24 Port Patch Panel (Coming Soon)
+- Dell OptiPlex (Proxmox) (SSD coming soon)
 
 ---
 
