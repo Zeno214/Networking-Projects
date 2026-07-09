@@ -1,0 +1,8 @@
+- Installed Windows Server 2022
+- Configured static IPv4 addressing
+- Installed Active Directory Domain Services
+- Installed DNS Server
+- Promoted DC01 to Domain Controller
+- Created new forest: atlas.lab
+- Verified DNS forward lookup zones
+- Began Active Directory organizational structure
