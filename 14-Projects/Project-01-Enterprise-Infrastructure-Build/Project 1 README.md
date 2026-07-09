@@ -38,11 +38,11 @@ As the Infrastructure Engineer for a fictional company, my objective is to build
 
 ## Planned
 
-- [ x] Rack assembled
+- [x] Rack assembled
 - [ ] Switch mounted
 - [ ] Patch panel installed
 - [ ] Cable management
-- [ x] Initial documentation completed
+- [x] Initial documentation completed
 
 ---
 
