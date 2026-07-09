@@ -38,13 +38,13 @@ As the Infrastructure Engineer for a fictional company, my objective is to build
 
 ## Completed
 
-- [x] Install Proxmox
-- [x] Create Windows Server 2022 VM
-- [x] Configure Static IP
-- [x] Install AD DS
-- [x] Install DNS
-- [x] Promote to Domain Controller
-- [x] Create Organizational Units
+- ✅ Install Proxmox
+- ✅ Create Windows Server 2022 VM
+- ✅ Configure Static IP
+- ✅ Install AD DS
+- ✅ Install DNS
+- ✅ Promote to Domain Controller
+- ✅ Create Organizational Units
 
 ## Next Steps
 
@@ -56,11 +56,11 @@ As the Infrastructure Engineer for a fictional company, my objective is to build
 
 ## Planned
 
-- [x] Rack assembled
+- ✅ Rack assembled
 - [ ] Switch mounted
 - [ ] Patch panel installed
 - [ ] Cable management
-- [x] Initial documentation completed
+- ✅ Initial documentation completed
 
 ---
 
