@@ -36,6 +36,24 @@ As the Infrastructure Engineer for a fictional company, my objective is to build
 
 # Current Status
 
+## Completed
+
+- [x] Install Proxmox
+- [x] Create Windows Server 2022 VM
+- [x] Configure Static IP
+- [x] Install AD DS
+- [x] Install DNS
+- [x] Promote to Domain Controller
+- [x] Create Organizational Units
+
+## Next Steps
+
+- [ ] Create Users and Groups
+- [ ] Join Windows 11 Client
+- [ ] Configure Group Policy
+- [ ] Configure Cisco VLANs
+- [ ] Configure Aruba AP-325
+
 ## Planned
 
 - [x] Rack assembled
