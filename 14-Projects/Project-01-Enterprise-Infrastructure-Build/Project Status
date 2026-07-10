@@ -1,0 +1,15 @@
+Project Status
+
+✅ Proxmox Deployment
+✅ Windows Server 2022 (AD DS)
+✅ DNS Configuration
+✅ Domain Client Deployment
+✅ Pi-hole Deployment
+✅ OPNsense Firewall
+✅ Initial VLAN Architecture
+🔄 Cisco Catalyst Integration
+🔄 Aruba Wireless Deployment
+🔄 AT&T IP Passthrough
+⬜ Inter-VLAN Firewall Rules
+⬜ Monitoring (Grafana/Prometheus)
+⬜ SIEM (Wazuh)
