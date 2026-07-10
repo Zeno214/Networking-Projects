@@ -45,6 +45,7 @@ As the Infrastructure Engineer for a fictional company, my objective is to build
 - ✅ Install DNS
 - ✅ Promote to Domain Controller
 - ✅ Create Organizational Units
+- ✅ Configure Aruba AP-325
 
 ## Next Steps
 
@@ -52,7 +53,6 @@ As the Infrastructure Engineer for a fictional company, my objective is to build
 - [ ] Join Windows 11 Client
 - [ ] Configure Group Policy
 - [ ] Configure Cisco VLANs
-- [ ] Configure Aruba AP-325
 
 ## Planned
 
